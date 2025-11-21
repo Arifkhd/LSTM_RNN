@@ -115,7 +115,7 @@ Matplotlib / Seaborn
 <br>
 🚀 How to Run<br>
 1️⃣ Clone the repository<br>
-git clone https://github.com/<username>/lstm-next-word-prediction
+git clone https://github.com/Arifkhd/LSTM_RNN
 <br>
 2️⃣ Install dependencies<br>
 pip install -r requirements.txt<br>
